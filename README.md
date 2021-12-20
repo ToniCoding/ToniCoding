@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToniCoding
 - 👀 I’m interested in learning more and more every day, improving and having fun in the way!
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and PHP.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, PHP and C++.
 - ‼️ Everything here is made for fun, nothing serious, just to help others and show my projects. :) ‼️
 
 <!---
