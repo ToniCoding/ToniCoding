@@ -7,5 +7,5 @@ Hi! 👋
 💬 Always available to chat about programming or system administration  
 🔭 I'm currently working on a good portfolio and trying to improve what I know.  
 😒 I hate and love at the same time algorithms and automatization  
-👉 Latest project: Virtual Keys Generator for Windows (VKGW)! You can check it [here](https://github.com/ToniCoding/VKGW)  
+👉 Latest project: Virtual Keys Generator for Windows (VKGW). You can check it [here](https://github.com/ToniCoding/VKGW)!  
 💙 Linux enjoyer  
