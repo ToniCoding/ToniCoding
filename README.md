@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ToniCoding
-- 👀 I’m interested in learning more and more every day, improving and having fun in the way!
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, PHP and C++.
-- ‼️ Everything here is made for fun, nothing serious, just to help others and show my projects. :) ‼️
+- Knowledge is key.
+- Currently learning PHP and C++.
+- Current project I'm working on: VKGW or Virtual Keys Generator for Windows.
+- A day without learning is a lost day.
 
 <!---
 ToniCoding/ToniCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
