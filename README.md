@@ -1,7 +1,7 @@
 Hi! 👋  
 
 🏫 I'm Antonio  
-❕ System administrator and developer  
+❕ Systems administrator and developer  
 🔍 I'm currently learning C++ and PHP  
 🌱 I really like to work together with other devs!  
 💬 Always available to chat about programming or system administration  
