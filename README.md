@@ -26,7 +26,7 @@ A tool that simulates keystrokes on Windows — useful for simulating user input
 
 **☆ IronSyncOS - Gym metrics and log ☆**  
 Software to log your gym progress and check on metrics and improvement.  
-➡️ [Check it out on GitHub]([https://github.com/ToniCoding/V](https://github.com/ToniCoding/IronSync))
+➡️ [Check it out on GitHub](https://github.com/ToniCoding/IronSync)
 
 ---
 
