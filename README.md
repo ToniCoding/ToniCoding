@@ -22,11 +22,11 @@
 ### 💼 Interesting projects
 **☆ Virtual Keys Generator for Windows (VKGW) ☆**  
 A tool that simulates keystrokes on Windows — useful for simulating user input.  
-➡️ [Check it out on GitHub](https://github.com/ToniCoding/VKGW)
+➡️ [Take me to the project](https://github.com/ToniCoding/VKGW)
 
 **☆ IronSyncOS - Gym metrics and log ☆**  
 Software to log your gym progress and check on metrics and improvement.  
-➡️ [Check it out on GitHub](https://github.com/ToniCoding/IronSync)
+➡️ [Take me to the project](https://github.com/ToniCoding/IronSync)
 
 ---
 
