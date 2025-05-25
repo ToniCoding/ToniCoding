@@ -44,5 +44,4 @@ Software to log your gym progress and check on metrics and improvement.
 
 ---
 
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToniCoding&show_icons=true&theme=tokyonight)
 ![ToniCoding's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniCoding&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
