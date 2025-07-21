@@ -32,7 +32,7 @@ A PHP based web application that tracks the macro-nutrients and calories consume
 
 ### 📫 How to Reach Me
 - ✉️ antoniovallejo2612@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/antonio-vallejo-moya-a11036253)
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonio-vallejo-moya-a11036253)
 - 💻 [My GitHub Repos](https://github.com/ToniCoding?tab=repositories)
 
 ---
