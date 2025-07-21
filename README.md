@@ -19,12 +19,12 @@
 
 ---
 
-### 💼 Interesting projects
-**☆ IronSyncOS - Gym metrics and log ☆**<br>
+### 💼 Top Tier Projects
+**☆ IronSyncOS - Gym metrics and tracking**<br>
 Software to log your gym progress and check on metrics and improvement.\
 ➡️ [To the project!](https://github.com/ToniCoding/IronSync)
 
-**☆ Simple Macro Counter ☆**<br>
+**☆ Simple Macro Counter - Manage your diet easily**<br>
 A PHP based web application that tracks the macro-nutrients and calories consumed in a day.\
 ➡️ [To the project!](https://github.com/ToniCoding/SimpleMacroCounter)
 
