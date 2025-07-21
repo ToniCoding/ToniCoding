@@ -13,9 +13,9 @@
 ---
 
 ### 🧠 Current Focus
-- 🔨 Improving my skills with **hands-on projects**
-- 🌐 **Developer portfolio** is still on its way!
 - 🏋️‍♂️ Developing my own gym app: *IronSyncOS – The Strength Operating System*
+- 🔨 Improving my skills with **hands-on projects**
+- 🌐 **Developer portfolio** is on its way!
 
 ---
 
@@ -33,7 +33,7 @@ A PHP based web application that tracks the macro-nutrients and calories consume
 ### 📫 How to Reach Me
 - ✉️ antoniovallejo2612@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/antonio-vallejo-moya-a11036253)
-- 💻 [My GitHub Repos](https://github.com/ToniCoding)
+- 💻 [My GitHub Repos](https://github.com/ToniCoding?tab=repositories)
 
 ---
 
